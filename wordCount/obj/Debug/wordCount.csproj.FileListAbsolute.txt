@@ -1,0 +1,6 @@
+c:\users\lesli\documents\visual studio 2017\Projects\wordCount\wordCount\bin\Debug\wordCount.exe.config
+c:\users\lesli\documents\visual studio 2017\Projects\wordCount\wordCount\bin\Debug\wordCount.exe
+c:\users\lesli\documents\visual studio 2017\Projects\wordCount\wordCount\bin\Debug\wordCount.pdb
+c:\users\lesli\documents\visual studio 2017\Projects\wordCount\wordCount\obj\Debug\wordCount.csprojResolveAssemblyReference.cache
+c:\users\lesli\documents\visual studio 2017\Projects\wordCount\wordCount\obj\Debug\wordCount.exe
+c:\users\lesli\documents\visual studio 2017\Projects\wordCount\wordCount\obj\Debug\wordCount.pdb
